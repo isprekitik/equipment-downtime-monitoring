@@ -1,0 +1,44 @@
+{
+  "equipment": {
+    "RS_01": {
+      "equipmentNo": "RS 01",
+      "equipmentName": "RS 01",
+      "location": "Bacao",
+      "currentStatus": "operational",
+      "statusStartedAt": 0,
+      "remarks": ""
+    },
+    "RS_03": {
+      "equipmentNo": "RS 03",
+      "equipmentName": "RS 03",
+      "location": "Bacao",
+      "currentStatus": "operational",
+      "statusStartedAt": 0,
+      "remarks": ""
+    },
+    "ECH_06": {
+      "equipmentNo": "ECH 06",
+      "equipmentName": "ECH 06",
+      "location": "Bacao",
+      "currentStatus": "operational",
+      "statusStartedAt": 0,
+      "remarks": ""
+    },
+    "ECH_07": {
+      "equipmentNo": "ECH 07",
+      "equipmentName": "ECH 07",
+      "location": "Enlin",
+      "currentStatus": "operational",
+      "statusStartedAt": 0,
+      "remarks": ""
+    },
+    "ECH_08": {
+      "equipmentNo": "ECH 08",
+      "equipmentName": "ECH 08",
+      "location": "Enlin",
+      "currentStatus": "operational",
+      "statusStartedAt": 0,
+      "remarks": ""
+    }
+  }
+}
